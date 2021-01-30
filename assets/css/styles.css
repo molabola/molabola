@@ -1,0 +1,57 @@
+@media (min-width: 992px) {
+  #mainnav {
+    padding-left: 130px;
+    padding-right: 130;
+  }
+}
+
+.nav-item {
+  margin-right: 31px;
+}
+
+#icondiv {
+  background-color: #F65E27;
+  height: 101px;
+  width: 101px;
+  border-radius: 50px;
+  margin: auto;
+}
+
+@media (min-width: 768px) {
+  #imgrow {
+    padding-left: 71px;
+    padding-right: 71px;
+  }
+}
+
+.icons2 {
+  border-radius: 41px;
+}
+
+.col-4.colrighet {
+  text-align: right;
+}
+
+#orangecol {
+  text-align: center;
+}
+
+.btn {
+  background-color: #FFF;
+  color: #000;
+  border-radius: 41px;
+  border-width: 0px;
+}
+
+.teamcol {
+  text-align: center;
+}
+
+.teamimg {
+  border-radius: 21px;
+}
+
+#footernav {
+  border-bottom: 0px;
+}
+
